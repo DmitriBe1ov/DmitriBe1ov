@@ -13,3 +13,17 @@
  <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DmitriBe1ov&style=flat-square&color=blue" alt=""/>
 </div>
+
+### About Me :
+I am a beginner developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :school: I am a student at TeachMeSkills.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
+</div>
+
+
